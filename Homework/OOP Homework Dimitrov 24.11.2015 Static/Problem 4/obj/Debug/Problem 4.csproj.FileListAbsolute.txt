@@ -1,0 +1,3 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 4\bin\Debug\Problem 4.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 4\obj\Debug\Problem 4.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 4\obj\Debug\Problem 4.pdb

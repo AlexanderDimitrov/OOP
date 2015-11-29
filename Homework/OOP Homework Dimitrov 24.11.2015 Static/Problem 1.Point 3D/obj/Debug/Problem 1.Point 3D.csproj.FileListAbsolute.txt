@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 1.Point 3D\bin\Debug\Problem 1.Point 3D.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 1.Point 3D\bin\Debug\Problem 1.Point 3D.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 1.Point 3D\bin\Debug\Problem 1.Point 3D.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 1.Point 3D\obj\Debug\Problem 1.Point 3D.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 1.Point 3D\obj\Debug\Problem 1.Point 3D.pdb

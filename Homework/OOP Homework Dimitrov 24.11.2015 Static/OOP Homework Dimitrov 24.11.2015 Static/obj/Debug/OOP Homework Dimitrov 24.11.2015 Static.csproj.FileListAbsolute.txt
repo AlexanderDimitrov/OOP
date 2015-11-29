@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\bin\Debug\OOP Homework Dimitrov 24.11.2015 Static.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\bin\Debug\OOP Homework Dimitrov 24.11.2015 Static.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\bin\Debug\OOP Homework Dimitrov 24.11.2015 Static.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\obj\Debug\OOP Homework Dimitrov 24.11.2015 Static.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\obj\Debug\OOP Homework Dimitrov 24.11.2015 Static.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\OOP Homework Dimitrov 24.11.2015 Static\obj\Debug\OOP Homework Dimitrov 24.11.2015 Static.pdb

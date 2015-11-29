@@ -1,0 +1,13 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Alexander's Homework for 21.11.2015\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Alexander's Homework for 21.11.2015\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Alexander's Homework for 21.11.2015\Problem 1. Persons\bin\Debug\Problem_1.Persons.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Alexander's Homework for 21.11.2015\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Alexander's Homework for 21.11.2015\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Problem 1. Persons\bin\Debug\Problem_1.Persons.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb

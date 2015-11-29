@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\bin\Debug\Problem 2.DistanceCalculator.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\bin\Debug\Problem 2.DistanceCalculator.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\bin\Debug\Problem 2.DistanceCalculator.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\obj\Debug\Problem 2.DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\obj\Debug\Problem 2.DistanceCalculator.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov 24.11.2015 Static\Problem 2.DistanceCalculator\obj\Debug\Problem 2.DistanceCalculator.pdb

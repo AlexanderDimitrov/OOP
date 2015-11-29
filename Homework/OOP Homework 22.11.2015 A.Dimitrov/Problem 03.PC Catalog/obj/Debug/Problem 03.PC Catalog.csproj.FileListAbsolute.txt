@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\bin\Debug\Problem 03.PC Catalog.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\bin\Debug\Problem 03.PC Catalog.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\bin\Debug\Problem 03.PC Catalog.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\obj\Debug\Problem 03.PC Catalog.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\obj\Debug\Problem 03.PC Catalog.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 03.PC Catalog\obj\Debug\Problem 03.PC Catalog.pdb

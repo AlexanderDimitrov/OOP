@@ -1,0 +1,9 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\bin\Debug\Problem 2.Laptop.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\bin\Debug\Problem 2.Laptop.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\bin\Debug\Problem 2.Laptop.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\obj\Debug\Problem 2.Laptop.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\obj\Debug\Problem 2.Laptop.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\obj\Debug\Problem 2.Laptop.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\bin\Debug\Problem 2.Laptop.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\obj\Debug\Problem 2.Laptop.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework 22.11.2015 A.Dimitrov\Problem 2.Laptop\obj\Debug\Problem 2.Laptop.pdb
