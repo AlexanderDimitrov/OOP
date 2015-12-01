@@ -7,3 +7,6 @@ C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP Homework Dimitrov -In
 C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\bin\Debug\Problem 1.exe.config
 C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\obj\Debug\Problem 1.exe
 C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\obj\Debug\Problem 1.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\OOP Homework Dimitrov -Inh and Abs\Problem 1\bin\Debug\Problem 1.pdb

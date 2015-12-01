@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\bin\Debug\Problem2.BankKurtovo.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\bin\Debug\Problem2.BankKurtovo.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\bin\Debug\Problem2.BankKurtovo.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\obj\Debug\Problem2.BankKurtovo.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\obj\Debug\Problem2.BankKurtovo.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem2.BankKurtovo\obj\Debug\Problem2.BankKurtovo.pdb

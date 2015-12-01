@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem1.Shapes\bin\Debug\Problem1.Shapes.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem1.Shapes\bin\Debug\Problem1.Shapes.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem1.Shapes\bin\Debug\Problem1.Shapes.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem1.Shapes\obj\Debug\Problem1.Shapes.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Homework Dimitrov.Encap and Polymorp\Problem1.Shapes\obj\Debug\Problem1.Shapes.pdb
