@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\bin\Debug\OOP Training.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\bin\Debug\OOP Training.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\bin\Debug\OOP Training.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\obj\Debug\OOP Training.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\obj\Debug\OOP Training.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\OOP Training\OOP Training\obj\Debug\OOP Training.pdb

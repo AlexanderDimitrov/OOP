@@ -1,0 +1,3 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\Other Types\Delegates and Events\bin\Debug\Delegates and Events.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\Other Types\Delegates and Events\obj\Debug\Delegates and Events.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Homework\Other Types\Delegates and Events\obj\Debug\Delegates and Events.pdb

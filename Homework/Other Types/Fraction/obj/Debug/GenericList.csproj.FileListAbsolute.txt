@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\bin\Debug\GenericList.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\bin\Debug\GenericList.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\bin\Debug\GenericList.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\obj\Debug\GenericList.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Delegates and Events\GenericList\obj\Debug\GenericList.pdb
