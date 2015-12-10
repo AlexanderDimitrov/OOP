@@ -1,0 +1,7 @@
+C:\Users\iLuvEvz\Desktop\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+C:\Users\iLuvEvz\Desktop\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+C:\Users\iLuvEvz\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\iLuvEvz\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Training\Exam 26.10.2014.ResturantManager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\OOP\Training\Exam 26.10.2014.ResturantManager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
