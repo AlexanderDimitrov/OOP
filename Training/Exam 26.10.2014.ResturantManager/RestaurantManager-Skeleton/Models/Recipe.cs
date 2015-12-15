@@ -9,12 +9,12 @@ namespace RestaurantManager.Models
     using Interfaces;
     internal abstract class Recipe :IRecipe
     {
-        private readonly int calories;
-        private readonly string name;
-        private readonly decimal price;
-        private readonly int quantityPerServing;
-        private readonly int timeToPrepare;
-        private readonly MetricUnit unit;
+        private int calories;
+        private string name;
+        private decimal price;
+        private int quantityPerServing;
+        private int timeToPrepare;
+        private MetricUnit unit;
                 
         protected Recipe(string name, decimal price, int calories, int quantity, MetricUnit unit, int time)
         {

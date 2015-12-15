@@ -5,6 +5,7 @@
     using RestaurantManager.Engine.Factories;
     using RestaurantManager.Interfaces;
     using RestaurantManager.Interfaces.Engine;
+    using RestaurantManager.Models;
 
     public sealed class RestaurantManagerEngine : IRestaurantManagerEngine
     {

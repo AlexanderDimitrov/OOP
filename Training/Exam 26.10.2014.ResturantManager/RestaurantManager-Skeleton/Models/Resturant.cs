@@ -6,37 +6,119 @@ using System.Threading.Tasks;
 
 namespace RestaurantManager.Models
 {
-    using Interfaces;
-    public class Resturant:IRestaurant
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    using RestaurantManager.Interfaces;
+
+    /// <summary>
+    ///     The restaurant.
+    /// </summary>
+    public class Restaurant : IRestaurant
     {
+        /// <summary>
+        ///     The location.
+        /// </summary>
         private readonly string location;
+
+        /// <summary>
+        ///     The name.
+        /// </summary>
         private readonly string name;
-        public Resturant(string name,string location)
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Restaurant"/> class.
+        /// </summary>
+        /// <param name="name">
+        /// The name.
+        /// </param>
+        /// <param name="location">
+        /// The location.
+        /// </param>
+        /// <exception cref="ArgumentException">
+        /// </exception>
+        public Restaurant(string name, string location)
         {
-            if(string.IsNullOrEmpty(name))
+            if (string.IsNullOrEmpty(name))
             {
-                throw new ArgumentException("The name is Required");
+                throw new ArgumentException("The name is required");
             }
-            if(string.IsNullOrEmpty(location))
+
+            if (string.IsNullOrEmpty(location))
             {
                 throw new ArgumentException("The location is required");
             }
+
             this.name = name;
             this.location = location;
             this.Recipes = new List<IRecipe>();
-           
         }
-        public string Name { get { return this.name; } }
-        public string Location { get { return this.location; } }
+
+        /// <summary>
+        ///     Gets the name.
+        /// </summary>
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+        }
+
+        /// <summary>
+        ///     Gets the location.
+        /// </summary>
+        public string Location
+        {
+            get
+            {
+                return this.location;
+            }
+        }
+
+        /// <summary>
+        ///     Gets the recipes.
+        /// </summary>
+        /// <exception cref="NotImplementedException">
+        /// </exception>
         public IList<IRecipe> Recipes { get; private set; }
+
+        /// <summary>
+        /// The add recipe.
+        /// </summary>
+        /// <param name="recipe">
+        /// The recipe.
+        /// </param>
+        /// <exception cref="NotImplementedException">
+        /// </exception>
         public void AddRecipe(IRecipe recipe)
         {
             this.Recipes.Add(recipe);
         }
+
+        /// <summary>
+        /// The remove recipe.
+        /// </summary>
+        /// <param name="recipe">
+        /// The recipe.
+        /// </param>
+        /// <exception cref="NotImplementedException">
+        /// </exception>
         public void RemoveRecipe(IRecipe recipe)
         {
             this.Recipes.Remove(recipe);
         }
+
+        /// <summary>
+        ///     The print menu.
+        /// </summary>
+        /// <returns>
+        ///     The <see cref="string" />.
+        /// </returns>
+        /// <exception cref="NotImplementedException">
+        /// </exception>
         public string PrintMenu()
         {
             var result = new StringBuilder();
@@ -125,6 +207,5 @@ namespace RestaurantManager.Models
 
             return result.ToString();
         }
-
     }
 }

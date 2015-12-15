@@ -1,6 +1,7 @@
 ﻿namespace RestaurantManager.Engine.Factories
 {
     using System;
+    using RestaurantManager.Models;
     using RestaurantManager.Interfaces;
     using RestaurantManager.Interfaces.Engine;
 
