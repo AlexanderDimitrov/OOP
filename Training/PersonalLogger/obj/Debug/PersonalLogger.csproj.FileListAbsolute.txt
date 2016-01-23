@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\bin\Debug\PersonalLogger.exe.config
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\bin\Debug\PersonalLogger.exe
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\bin\Debug\PersonalLogger.pdb
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\obj\Debug\PersonalLogger.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\obj\Debug\PersonalLogger.exe
+C:\Users\iLuvEvz\Desktop\SoftUniStuff\PersonalLogger\obj\Debug\PersonalLogger.pdb

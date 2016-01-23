@@ -1,0 +1,5 @@
+18.12.2015 г. 21:03:30 ч. - Info - Unused local Variable
+18.12.2015 г. 21:22:47 ч. - Critical - Out of Memmory
+18.12.2015 г. 21:22:47 ч. - Info - Unused local Variable
+18.12.2015 г. 22:06:38 ч. - Critical = Out of Memmory
+18.12.2015 г. 22:06:38 ч. - Info = Unused local Variable
